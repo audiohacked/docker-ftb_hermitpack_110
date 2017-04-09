@@ -3,7 +3,7 @@ FROM openjdk:alpine
 MAINTAINER Sean Nelson <audiohacked@gmail.com>
 
 ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/FTBPresentsHermitPack"
-ENV FTB_VERSION="1_6_1"
+ENV FTB_VERSION="1_7_0"
 ENV SERVER_FILE="FTBPresentsHermitPackServer.zip"
 ENV SERVER_PORT 25565
 
